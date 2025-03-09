@@ -428,7 +428,16 @@ Telegram и Discord — ||две вертикальные черты с двух
 * ```git branch -D <название ветки>``` - удалить ветку принудительно
 * ```git merge <название сливаемой ветки>``` - сливание веток
 
-* ![](photos/1.png)
+![](scrin/one.png)
 
-* ![](photos/1.png)
+![](scrin/two.png)
 
+![](scrin/three.png)
+
+![](scrin/four.png)
+
+ ![](scrin/five.png)
+ 
+ ![](scrin/1.jpg)
+   
+![](scrin/2.jpg)
